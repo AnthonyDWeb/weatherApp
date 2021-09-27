@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/weatherApp/static/css/main.3e7b3e40.chunk.css",
+    "main.js": "/weatherApp/static/js/main.cf0bfd41.chunk.js",
+    "main.js.map": "/weatherApp/static/js/main.cf0bfd41.chunk.js.map",
+    "runtime-main.js": "/weatherApp/static/js/runtime-main.427b276c.js",
+    "runtime-main.js.map": "/weatherApp/static/js/runtime-main.427b276c.js.map",
+    "static/js/2.f1580ae4.chunk.js": "/weatherApp/static/js/2.f1580ae4.chunk.js",
+    "static/js/2.f1580ae4.chunk.js.map": "/weatherApp/static/js/2.f1580ae4.chunk.js.map",
+    "index.html": "/weatherApp/index.html",
+    "static/css/main.3e7b3e40.chunk.css.map": "/weatherApp/static/css/main.3e7b3e40.chunk.css.map",
+    "static/js/2.f1580ae4.chunk.js.LICENSE.txt": "/weatherApp/static/js/2.f1580ae4.chunk.js.LICENSE.txt",
+    "static/media/brumeux.9f9ad0a9.jpg": "/weatherApp/static/media/brumeux.9f9ad0a9.jpg",
+    "static/media/logo.da2d7796.png": "/weatherApp/static/media/logo.da2d7796.png",
+    "static/media/neige.57142c56.jpg": "/weatherApp/static/media/neige.57142c56.jpg",
+    "static/media/nuageux.8686f18d.jpg": "/weatherApp/static/media/nuageux.8686f18d.jpg",
+    "static/media/orageux.f2ca1555.jpg": "/weatherApp/static/media/orageux.f2ca1555.jpg",
+    "static/media/pluie.b4a055a5.jpg": "/weatherApp/static/media/pluie.b4a055a5.jpg",
+    "static/media/soleil.5cf730f0.jpg": "/weatherApp/static/media/soleil.5cf730f0.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.427b276c.js",
+    "static/js/2.f1580ae4.chunk.js",
+    "static/css/main.3e7b3e40.chunk.css",
+    "static/js/main.cf0bfd41.chunk.js"
+  ]
+}
