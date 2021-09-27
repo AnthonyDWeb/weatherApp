@@ -56,8 +56,8 @@ const Navbar = () => {
                 <li><Link className="app-name" to="">WeatherApp</Link></li>
             </div>
             <ul>
-                <li><Link to="/">Home</Link></li>
-                <li><Link to="/favorite">Favorite</Link></li> 
+                <li><Link to="/weatherApp">Home</Link></li>
+                <li><Link to="/weatherApp/favorite">Favorite</Link></li> 
             </ul>
         </Nav>
     )

@@ -32,8 +32,8 @@ function App() {
         <Page>
             <Navbar />
             <Switch>
-                <Route exact path="/" component={Home} />
-                <Route path="/favorite" component={Favorite} />
+                <Route exact path="/weatherApp" component={Home} />
+                <Route path="/weatherApp/favorite" component={Favorite} />
             </Switch>
             <Footer />
         </Page>
